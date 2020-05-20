@@ -1,3 +1,6 @@
+### Note
+This is an attempt to convert JackSharp to .NET Standard. All credit goes to residuum and contributors of the main project.
+
 # Jack-Sharp
 Jack-Sharp is a .NET/mono binding for [Jack](http://jackaudio.org/), and contains multiple: JackSharp, Jack.NAudio, and Jack.CSCore. The latter projects are bindings of JackSharp for NAudio and CSCore.
 
